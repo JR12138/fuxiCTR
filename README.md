@@ -1,7 +1,7 @@
-# FuxiCTR: Criteo Dataset Model Training & Experimentation
+# demo
 
 <p align="center">
-  <img src="https://example.com/your-logo.png" alt="FuxiCTR" width="200"/>
+  <img src="[https://example.com/.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUkLb7zkchZPqEN8KP0QdvkLSCh2VClVPLqA&s)" alt="FuxiCTR" width="200"/>
 </p>
 
 <p align="center">
@@ -11,8 +11,6 @@
 ---
 
 ## 🚀 Introduction
-
-FuxiCTR is designed to streamline the process of training, tuning, and deploying machine learning models on large-scale datasets. This repository focuses on training models using the **Criteo dataset**, one of the largest publicly available datasets for CTR prediction.
 
 This project integrates models like **xDeepFM**, **FiBiNet**, and **DeepFM**, enabling fast, customizable experiments with minimal configuration.
 
